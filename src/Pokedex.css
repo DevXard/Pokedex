@@ -1,0 +1,11 @@
+#Pokedex {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-gap: 150px;
+    justify-content: center;
+    
+}
+
+#Pokedex-header {
+    color:rgb(198, 199, 199);
+}
